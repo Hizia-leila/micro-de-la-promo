@@ -3,7 +3,7 @@
 Podcast étudiant. Un épisode par mois.
 
 ## Présentation
-TP machine Git et GitHub.
+Un podcast fait par les etudiants, pour les etudiants. Un episode par mois.
 
 ## Étudiant
 Hizia Leila
